@@ -1,6 +1,6 @@
 # Mohr_Circle
 
-Ce dépot contient des scriptes illustrant la construction du celcre de Morh et du tri-cercle de Mohr.
+This repository is a collection of notebooks to illustrate the Mohr circle construction for educational purposes.
 
-il est accessible sur binder (pas besion d'instalation local de jupyter) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EmileRouxSMB/Mohr_Circle/master)
+You can run it directly in [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EmileRouxSMB/Mohr_Circle/master) (no need of local install of Jupyter)
 
